@@ -13,7 +13,7 @@ void main() {
 
 **Output:**
 
-![Code Example](img/code1.png)
+![Code Example](https://raw.githubusercontent.com/username/repo/main/img/code1.png)
 ![Output Example](img/output1.png)
 
 ---
