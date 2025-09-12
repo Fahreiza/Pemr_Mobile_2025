@@ -13,8 +13,7 @@ void main() {
 
 **Output:**
 
-<img src="img/code1.png" alt="Code Example" width="400"/>
-
+![Code Example](img/code1.png)
 ![Output Example](img/output1.png)
 
 ---
