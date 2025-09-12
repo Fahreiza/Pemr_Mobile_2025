@@ -13,8 +13,8 @@ void main() {
 
 **Output:**
 
-![alt text](img/code1.png)
-![alt text](img/output1.png)
+![alt text](../img/code1.png)
+![alt text](../img/output1.png)
 
 ---
 
