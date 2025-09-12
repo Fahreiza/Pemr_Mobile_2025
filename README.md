@@ -14,6 +14,7 @@ void main() {
 **Output:**
 
 <img src="img/code1.png" alt="Code Example" width="400"/>
+
 ![Output Example](img/output1.png)
 
 ---
