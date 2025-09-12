@@ -13,8 +13,8 @@ void main() {
 
 **Output:**
 
-![alt text](../Pemr_Mobile_2025/Codelab/img/code1.png)
-![alt text](../Pemr_Mobile_2025/Codelab/img/output1.png)
+![Code Example](img/code1.png)
+![Output Example](img/output1.png)
 
 ---
 
@@ -37,14 +37,14 @@ From the codelab material, several key points can be summarized to support mobil
 - By default, variables **cannot be null** unless marked with `?`.  
 - Example:
 
-![alt text](img/null.png)
+![Null Example](img/null.png)
 
 ### Late Variable
 - A variable will be assigned **later**, but must have a value before being used.  
 - Useful when a variable’s value will be set afterward.  
 - Example:
 
-![alt text](img/late.png)
+![Late Example](img/late.png)
 
 **Difference:**
 - **Null Safety (`?`)** → the variable can be empty (null).  
