@@ -13,8 +13,8 @@ void main() {
 
 **Output:**
 
-![alt text](../img/code1.png)
-![alt text](../img/output1.png)
+![alt text](../Pemr_Mobile_2025/Codelab/img/code1.png)
+![alt text](../Pemr_Mobile_2025/Codelab/img/output1.png)
 
 ---
 
